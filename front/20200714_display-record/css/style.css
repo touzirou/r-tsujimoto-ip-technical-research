@@ -1,0 +1,13 @@
+.main {
+    width: 20em;
+}
+
+#time {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.timer-btn {
+    width: 30%;
+}
